@@ -71,12 +71,12 @@ button{
     border: none;
 }
 
-image{
-    background-color: gray;
+.image{
+    background-color: rgb(156, 146, 146);
     display:flex;
     align-items: center;
     justify-content: center;
-    height: 215px;
+    height: 200px;
 }
 
 
@@ -118,10 +118,28 @@ image{
     height: 160px
 }
 
-#para1 #para2 #para3 #para4{
+#para1{
     color: #71bd25;
     font-weight: 900;
-    font-size: 4px;
+    font-size: 16px;
+}
+
+#para2{
+    color: #71bd25;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+#para3{
+    color: #71bd25;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+#para4{
+    color: #71bd25;
+    font-weight: 900;
+    font-size: 16px;
 }
 
 /* QUOTE */
