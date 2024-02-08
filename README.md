@@ -1,4 +1,5 @@
 # landing-page
+- desktop view
 
 Live preview: https://uttam-on-git.github.io/landing-page/ 
 
